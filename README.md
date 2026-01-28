@@ -1,4 +1,4 @@
-# beyondchats_fullstack_assignment
+# BeyondChats–Full-Stack-Article-Rewriter
 
 Initial project setup
 
